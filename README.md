@@ -69,4 +69,4 @@ ___
 
 <!--task lists-->
 * [x] task 1
-* [] task 2
+* [ ] task 2
