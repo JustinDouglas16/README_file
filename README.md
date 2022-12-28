@@ -60,7 +60,7 @@ ___
 
 ```java
  public static void main(string[] args){
-    System.Out.Println("Hellow World");
+    System.Out.Println("Hello World");
  }
 ```
 <!--tables-->
