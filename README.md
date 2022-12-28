@@ -8,10 +8,12 @@
 
 <!--italics-->
 *this text* is italic
+
 _this text_ is italic
 
 <!--strong-->
 **this text** is strong
+
 __this text__ is strong
 
 <!--strikethrough-->
