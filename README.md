@@ -1,20 +1,25 @@
 <!--headings-->
 # heading 1
+
 ## heading 2
+
 ### heading 3
+
 #### heading 4
+
 ##### heading 5
+
 ###### heading 6
 
 <!--italics-->
 *this text* is italic
 
-_this text_ is italic
+*this text* is italic
 
 <!--strong-->
 **this text** is strong
 
-__this text__ is strong
+**this text** is strong
 
 <!--strikethrough-->
 ~~this text~~ is strikethrough
@@ -29,15 +34,15 @@ ___
 <!--links-->
 [my md file](http://mymdfile.com)
 
-[my md file](http://mymdfile.com 
+[my md file](http://mymdfile.com
 "my md file")
 
 <!--ul-->
 * item 1
 * item 2
 * item 3
-    * item 4
-        * item 5
+  * item 4
+    * item 5
 
 <!--ol-->
 1. item 1
